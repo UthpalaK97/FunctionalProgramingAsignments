@@ -1,0 +1,25 @@
+2020.05.27 10:50:28 INFO  started: Metals version 0.9.0 in workspace 'F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_2'
+2020.05.27 10:50:30 INFO  time: initialize in 1.32s
+2020.05.27 10:50:32 WARN  no build tool detected in workspace 'F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.27 10:50:32 INFO  no build target: using presentation compiler with only scala-library
+2020.05.27 10:50:35 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_2\q1.scala
+2020.05.27 10:58:20 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_2\q1.scala
+May 27, 2020 11:11:09 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 219, count -1, length 236
+java.lang.StringIndexOutOfBoundsException: offset 219, count -1, length 236
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+2020.05.27 11:14:01 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_2\q1.scala
+2020.05.27 11:14:04 INFO  shutting down Metals
