@@ -96,3 +96,45 @@ java.lang.StringIndexOutOfBoundsException: offset 154, count -2, length 175
 2020.05.29 10:15:52 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q3.scala
 2020.05.29 10:17:18 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q4.scala
 2020.05.29 10:29:35 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q4.scala
+2020.05.29 10:30:16 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q4.scala
+2020.05.29 10:32:01 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q5.scala
+May 29, 2020 10:36:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 249, count -1, length 278
+java.lang.StringIndexOutOfBoundsException: offset 249, count -1, length 278
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+2020.05.29 10:37:58 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q5.scala
+May 29, 2020 10:56:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 290, count -1, length 363
+java.lang.StringIndexOutOfBoundsException: offset 290, count -1, length 363
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+2020.05.29 10:57:20 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q5.scala
+2020.05.29 10:57:56 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q5.scala
+2020.05.29 11:00:50 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q5.scala
+2020.05.29 11:01:59 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q5.scala
+2020.05.29 11:17:06 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q5.scala
