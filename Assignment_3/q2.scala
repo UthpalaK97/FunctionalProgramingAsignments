@@ -11,12 +11,15 @@ object primeSeq extends App{
          case n => prime (p,n+1)
      }
 
-    def primeSeq(x:Int):Any={
-         if (x>0 && prime(x)==false) primeSeq(x-1)
-         println(x)
-         if (x>0) primeSeq(x-1)
+    def primeSeq(x:Int):Int={
+        if(x==1) println(x)
+        if(prime(x)==false) primeSeq(x-1)         //println(x)
+        println(x)
+        primeSeq(x-1)
           
     } 
+
+
     //primeSeq(10)
     def readIntP(s:String)={printf("%s",s);scala.io.StdIn.readInt()}
     val n = readIntP("Enter a number : ")

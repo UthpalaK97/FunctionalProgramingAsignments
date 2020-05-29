@@ -293,3 +293,77 @@ java.lang.NullPointerException
 2020.05.29 11:55:28 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q6.scala
 2020.05.29 11:56:18 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q6.scala
 2020.05.29 11:57:09 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q6.scala
+2020.05.29 12:09:54 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q2.scala
+May 29, 2020 12:11:56 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:44)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:490)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:402)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:394)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:379)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:416)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:170)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:127)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:81)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:185)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+May 29, 2020 12:11:56 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:44)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:490)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:402)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:394)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:379)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:416)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:170)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:127)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:81)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:185)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+May 29, 2020 12:11:57 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:44)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:490)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:402)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:394)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:379)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:416)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:53)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:170)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:127)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:81)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:185)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.05.29 12:17:28 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q2.scala
+2020.05.29 12:19:47 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q2.scala
+2020.05.29 12:21:20 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q2.scala
+2020.05.29 12:23:38 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q2.scala
+2020.05.29 12:26:50 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q2.scala
+2020.05.29 12:31:30 WARN  no build tool detected in workspace 'F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.29 12:31:30 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q2.scala
+2020.05.29 12:32:17 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q2.scala
+2020.05.29 12:32:58 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q2.scala
+2020.05.29 12:33:49 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_3\q2.scala
