@@ -82,3 +82,9 @@ WARNING: Unmatched cancel notification for request id 1832
 2020.07.18 19:55:00 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_4\TheCaesarCipher.scala
 2020.07.18 19:56:47 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_4\TheCaesarCipher.scala
 2020.07.18 19:56:49 INFO  shutting down Metals
+2020.07.19 09:06:35 INFO  started: Metals version 0.9.2 in workspace 'F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_The Caesar Cipher' for client vscode.
+2020.07.19 09:06:37 INFO  time: initialize in 1.94s
+2020.07.19 09:06:39 WARN  no build tool detected in workspace 'F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_The Caesar Cipher'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.19 09:06:39 INFO  no build target: using presentation compiler with only scala-library
+2020.07.19 09:06:43 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_The Caesar Cipher\TheCaesarCipher.scala
+2020.07.19 09:10:52 INFO  shutting down Metals
