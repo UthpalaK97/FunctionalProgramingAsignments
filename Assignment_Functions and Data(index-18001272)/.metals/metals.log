@@ -403,3 +403,4 @@ WARNING: Unmatched cancel notification for request id 4787
 2020.07.29 13:12:36 INFO  no build target: using presentation compiler with only scala-library
 2020.07.29 13:12:39 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_Functions and Data(index-18001272)\Q1.scala
 2020.07.29 13:14:43 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_Functions and Data(index-18001272)\Q2.scala
+2020.07.29 13:15:31 WARN  no build target for: F:\ucsc\2 year\lecs\SCS2204 FUNCTIONAL PROGEAMMING\Assignments\FunctionalProgramingAssignments\Assignment_Functions and Data(index-18001272)\Q3.scala
