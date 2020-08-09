@@ -1,3 +1,7 @@
+
+// Assignment 
+// index no- 18001272
+
 object caseClass extends App{
 
     case class point(a : Int , b :Int){
